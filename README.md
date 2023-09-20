@@ -1,1 +1,2 @@
-# artificial_intelligence
+e
+model to predict student perfomance basing on math subject by considering several factors
